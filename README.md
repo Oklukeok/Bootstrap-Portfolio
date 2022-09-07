@@ -1,75 +1,49 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+# Luke's Portfolio Project (but made w/ bootstrap).
 
-# Project Name
+> Hello World I'm Lucas. This time i will create another version of my last Portfolios projects, BUT its my first time using BOOTSTRAP. Let the game begin!
 
-> Description the project.
+## Project News! 
 
+> Stage 0: Repo created and first branch.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
+- BOOTSTRAP
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To check this project, please follow this steps:
+
+- On GitHub.com, navigate to the main page of the repository.
+- Above the list of files, click the green "Code" button.
+- Copy the URL for the repository.
+- Open Git Bash.
+- Change the current working directory to the location where you want the cloned directory.
+- Type git clone, and then paste the URL you copied earlier: $ git clone git@github.com:Oklukeok/Bootstrap-Portfolio.git
+- Press Enter to create your local clone.
+- Open the folder with your integrated development environment (IDE).
+- You can check a live preview opening the HTML with a browser.
 
 
-To get a local copy up and running follow these simple example steps.
+## Author
 
-### Prerequisites
+👤 Lucas Bermudez
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@Oklukeok](https://github.com/Oklukeok)
+- Twitter: [@ok_Lukee](https://twitter.com/ok_Lukee)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
